@@ -1,4 +1,9 @@
-# Astro Starter Kit: Blog
+# Project Links
+
+* [Github Source](https://github.com/schminkel/astrojs-github-pages-blog)
+* [Github Pages Link](https://schminkel.github.io/astrojs-github-pages-blog/)
+
+## Astro Starter Kit: Blog
 
 ```
 npm init astro -- --template blog
